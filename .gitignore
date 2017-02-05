@@ -143,4 +143,4 @@ output/
 draft/
 
 # Directory file
-.directory
+*.directory
