@@ -141,3 +141,6 @@ ENV/
 # Pelican
 output/
 draft/
+
+# Directory file
+.directory
