@@ -1,6 +1,6 @@
 Title: Ian Murdock
 Date: 2015-12-31 21:29
-Category: free software
+Category: Software Libre
 Tags: Debian
 Slug: ian-murdock
 Authors: Diavolo
